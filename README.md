@@ -40,3 +40,23 @@
 
 ## Screens
 
+### 1. Login Screen: 
+![Home Screen](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Home.png)
+
+### 2. Choose Option Screen:
+![Options](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Options.png)
+
+### 3. List of Doubts
+![List of Doubts](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Answer%20Doubts.png)
+
+### 4. Particular Doubt View
+![Particular Doubt View](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Answer%20Doubt%20-%3E%20Good%20Doubt%20Flow%20-%3E%20Home%20Screen.png)
+
+### 5. Answer Doubt 
+![Answer Doubt](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Answer%20Doubt%20-%3E%20Good%20Doubt%20Flow%20-%3E%20Answer%20Mode.png)
+
+### 6. Answered Doubt with voice recording
+![Voice Recording](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Answer%20Doubt%20-%3E%20Good%20Doubt%20Flow%20-%3E%20Answer%20Doubt%20-%3E%20Voice%20Recording.png)
+
+### 7. Submitted answer - option to edit and delete
+![Submit Answer](https://github.com/GoodEd/react-native-hiring/blob/master/screens/Answer%20Doubt.png)
